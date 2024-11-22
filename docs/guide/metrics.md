@@ -37,9 +37,9 @@ the `status` frontend to
 
 ## Dashboard
 
-A S3GW dashboard is available on Grafana Hub with ID 19544.
+A S3GW Grafana dashboard is available on GitHub.
 
-- [Grafana Dashboard](https://grafana.com/grafana/dashboards/19544-s3gw/)
+- [Grafana Dashboard](https://github.com/s3gw-tech/s3gw/blob/main/grafana-dashboard.json)
 
 ## Prometheus Scraping Setup
 
